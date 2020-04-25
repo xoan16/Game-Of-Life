@@ -8,7 +8,7 @@ I use atom and atom-python-run package: https://atom.io/packages/atom-python-run
 
 
 Controls:
-  > left-click to add cells
+  > left-click to add cells\n
   > right click to delete cells
   > middle-button to zoom in/out and move camera
   > 'r' to reset everything
